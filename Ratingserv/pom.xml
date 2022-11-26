@@ -7,11 +7,11 @@
 		<version>2.7.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.userserv</groupId>
-	<artifactId>Userserv</artifactId>
+	<groupId>com.ratingserv</groupId>
+	<artifactId>Ratingserv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Userserv</name>
-	<description>User service</description>
+	<name>Ratingserv</name>
+	<description>Rating service</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
